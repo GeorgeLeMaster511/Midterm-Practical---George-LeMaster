@@ -21,5 +21,6 @@ public:
 
 	std::string incorrectResponse;
 
+	bool asked = false;;
 };
 
